@@ -75,6 +75,7 @@ Product-ionization
 In this step, I built a flask API endpoint that was hosted on a local web-server by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary. 
 
 Code and Resources Used
+
 Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 For Web Framework Requirements: pip install -r requirements.txt
